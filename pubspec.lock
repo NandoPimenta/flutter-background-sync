@@ -417,10 +417,9 @@ packages:
   flutter_background_service:
     dependency: "direct main"
     description:
-      name: flutter_background_service
-      sha256: "94d9a143852729140e17254a53769383b03738cd92b6e588a8762003e6cd9dd9"
-      url: "https://pub.dev"
-    source: hosted
+      path: "plugins/flutter_background_service"
+      relative: true
+    source: path
     version: "5.0.5"
   flutter_background_service_android:
     dependency: transitive

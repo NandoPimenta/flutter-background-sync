@@ -20,7 +20,6 @@ dependencies:
   
   #firebase and background sync
   cloud_firestore: ^4.16.0
-  flutter_background_service: ^5.0.5
   device_info_plus: ^10.0.1
   flutter_local_notifications: ^17.0.0
   #layout  
@@ -31,6 +30,9 @@ dependencies:
 
   
  #packages
+  flutter_background_service:
+    path: plugins/flutter_background_service
+
   package_architecture: 
     git:
       url: https://github.com/NandoPimenta/flutter_package_architecture.git

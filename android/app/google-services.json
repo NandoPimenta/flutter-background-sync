@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157758561144",
+    "project_id": "fernandopimenta-app-dev",
+    "storage_bucket": "fernandopimenta-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157758561144:android:99fbf63c74eef63c0b068d",
+        "android_client_info": {
+          "package_name": "br.com.fernandopimenta.flutterbackgroundsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABcxqeUHnPPbeAuqr293vrQuFQ7e7WKSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
